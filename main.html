@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Open Vidya</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .saffron-link {
+      color: #ff9933;
+    }
+    .dot::before {
+      content: "•";
+      margin-right: 6px;
+      color: #ff9933;
+    }
+  </style>
+</head>
+<body class="bg-white text-gray-800 font-sans min-h-screen">
+
+  <!-- Header -->
+  <header class="bg-[#75ffd9] text-white font-bold px-6 py-4 flex justify-between items-center shadow-md">
+    <h1 class="text-xl">Open Vidya</h1>
+    <p class="text-sm italic">वि द्य या ऽ मृ त म श्नु ते</p>
+  </header>
+
+  <div class="flex">
+
+    <!-- Sticky Sidebar Box -->
+    <aside class="w-64 p-4 m-6 border-2 border-[#75ffd9] rounded-2xl shadow-lg sticky top-6 h-fit self-start">
+      <ul class="space-y-3">
+        <li><a href="#" class="text-[#ff9933] font-medium hover:underline">Instructions as to tests</a></li>
+        <li><a href="#" class="text-[#ff9933] font-medium hover:underline">Contact Us</a></li>
+      </ul>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="flex-grow p-6">
+      <div class="space-y-6">
+
+        <!-- A -->
+        <div>
+          <h2 class="text-lg font-semibold text-gray-700">A</h2>
+          <div class="flex flex-wrap gap-x-8 gap-y-2 mt-2">
+            <a href="ancient-history-in" class="dot saffron-link">Ancient History of India</a>
+            <a href="art-culture" class="dot saffron-linkk">Art & Culture</a>
+          </div>
+        </div>
+
+        <!-- C -->
+        <div>
+          <h2 class="text-lg font-semibold text-gray-700">C</h2>
+          <div class="flex flex-wrap gap-x-8 gap-y-2 mt-2">
+            <a href="critical" class="dot saffron-linkk">Critical Thinking</a>
+          </div>
+        </div>
+
+        <!-- E -->
+        <div>
+          <h2 class="text-lg font-semibold text-gray-700">E</h2>
+          <div class="flex flex-wrap gap-x-8 gap-y-2 mt-2">
+            <a href="ind_economy" class="dot saffron-linkk">Economy of India</a>
+          </div>
+        </div>
+
+        <!-- H -->
+        <div>
+          <h2 class="text-lg font-semibold text-gray-700">H</h2>
+          <div class="flex flex-wrap gap-x-8 gap-y-2 mt-2">
+            <a href="human-geo" class="dot saffron-linkk">Human Geography</a>
+            <a href="hitory-world" class="dot saffron-linkk">History of World</a>
+          </div>
+        </div>
+
+        <!-- M -->
+        <div>
+          <h2 class="text-lg font-semibold text-gray-700">M</h2>
+          <div class="flex flex-wrap gap-x-8 gap-y-2 mt-2">
+            <a href="medieval-history-in" class="dot saffron-linkk">Medieval History of India</a>
+            <a href="modern-history-in" class="dot saffron-linkk">Modern History of India</a>
+          </div>
+        </div>
+
+        <!-- P -->
+        <div>
+          <h2 class="text-lg font-semibold text-gray-700">P</h2>
+          <div class="flex flex-wrap gap-x-8 gap-y-2 mt-2">
+            <a href="physical-geo" class="dot saffron-link">Physical Geography</a>
+          </div>
+        </div>
+
+      </div>
+    </main>
+  </div>
+
+</body>
+</html>
