@@ -1,0 +1,248 @@
+/* Reset & Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  color: #333;
+}
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header */
+.header {
+  background: #75ffd9;
+  text-align: center;
+  padding: 1rem;
+}
+.header h1 {
+  font-size: 2rem;
+}
+.subtitle {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+}
+
+/* Instructions & Navigation Layout */
+.instructions-container {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 1rem;
+  padding: 1rem;
+}
+.instructions-box {
+  flex: 2;
+  border: 4px solid #0033cc;
+  padding: 1rem;
+  background: #fff;
+  max-width: 65%;
+}
+.instructions-box h2 {
+  margin-bottom: 0.5rem;
+}
+.instructions-box ul {
+  list-style: disc inside;
+  margin-bottom: 1rem;
+}
+.start-link {
+  display: inline-block;
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  color: #cc0000;
+}
+
+.nav-box {
+  flex: 1;
+  border: 4px solid #663300;
+  padding: 1rem;
+  background: #fff;
+  position: sticky;
+  margin-top: 5%;
+}
+.nav-box p {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+#nav-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.nav-question {
+  width: 2rem;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #eee;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.nav-question.attempted {
+  background: #ffd54f;
+}
+.nav-question.correct {
+  background: #a5d6a7;
+}
+.nav-question.wrong {
+  background: #ef9a9a;
+}
+
+/* Quiz & Controls */
+#topic-container h2 {
+  text-align: left;
+  padding: 0 1rem;
+  margin-bottom: 0.5rem;
+}
+#quiz-container {
+  width: 65%;
+  padding: 1rem;
+}
+#quiz-container fieldset {
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  padding: 1rem;
+}
+#quiz-container legend {
+  font-weight: bold;
+}
+.explanation {
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+.controls {
+  text-align: center;
+  margin: 1rem 0;
+}
+.controls button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+}
+.summary {
+  border: 1px solid #4caf50;
+  padding: 1rem;
+  margin: 1rem;
+  background: #e8f5e9;
+}
+
+/* Mobile Nav Toggle & Bottom Bar */
+.toggle-nav {
+  display: none;
+}
+.mobile-bar {
+  display: none;
+}
+#mobile-bar {
+  display: none;
+}
+
+.summary {
+  width: 65%;
+}
+/* Footer */
+.footer {
+  background: #569196;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+.footer .heart {
+  color: red;
+}
+
+/* Responsive */
+@media (min-width: 800px) {
+  /* Desktop & large tablets: fix nav-box to viewport */
+  .nav-box {
+    position: fixed;
+    top: calc(1rem + 4rem);
+    right: 1rem;
+    width: 30%;
+    max-width: 300px;
+  }
+
+  /* Ensure quiz container leaves space on right */
+  #quiz-container {
+    margin-right: 35%;
+  }
+
+  .summary {
+    margin-right: 35%;
+  }
+  /* Hide mobile-specific elements */
+  .toggle-nav,
+  #mobile-bar {
+    display: none;
+  }
+}
+
+@media (max-width: 799px) {
+  .instructions-container {
+    flex-direction: column;
+  }
+  .instructions-box {
+    max-width: 100%;
+  }
+  .toggle-nav {
+    display: block;
+    position: fixed;
+    top: 0.5rem;
+    left: 0.5rem;
+    background: #663300;
+    color: #fff;
+    border: none;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    z-index: 1001;
+  }
+  .nav-box {
+    position: fixed;
+    top: 30;
+    left: -100%;
+    height: auto;
+    width: 80%;
+    max-width: 300px;
+    background: #fff;
+    border: 4px solid #663300;
+    padding: 1rem;
+    z-index: 1000;
+    transition: left 0.3s ease;
+    overflow-y: auto;
+  }
+  .nav-box.open {
+    left: 0;
+  }
+  #quiz-container {
+    width: 100%;
+  }
+  .summary {
+    width: 90%;
+  }
+  #mobile-bar {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #75ffd9;
+    justify-content: center;
+    padding: 0.5rem;
+    gap: 1rem;
+    z-index: 1000;
+  }
+  #mobile-bar button {
+    background: transparent;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+}
