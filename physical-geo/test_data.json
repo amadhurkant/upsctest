@@ -1,6 +1,17 @@
 [
   {
-    "text": "According to the Nebular Hypothesis, as revised by Otto Schmidt and Carl Weizascar, what were the primary components of the solar nebula that surrounded the youthful sun?",
+    "text": "Consider the following theories regarding the origin of the Earth:<br><ol><li><b>Nebular Hypothesis:</b> Proposed that planets were formed out of a cloud of material associated with a youthful, slowly rotating sun.</li><li><b>Binary Theory:</b> Considered that a companion star coexisted with the sun and was involved in planet formation.</li><li><b>Planetesimal Hypothesis:</b> Stated that a wandering star caused a cigar-shaped extension of material to separate from the sun, which later formed planets.</li></ol>Which of the theories given above is/are correctly described?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "3 only"
+    ],
+    "answer": "1, 2 and 3",
+    "explanation": "All three statements correctly describe the core concept of their respective theories. The Nebular Hypothesis (Kant/Laplace) involves a solar nebula, the Binary Theories (Jeans/Jeffrey) involve a companion star, and the Planetesimal Hypothesis (Chamberlain/Moulton) involves a wandering star.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+  },
+  {
+    "text": "What were the primary components of the solar nebula that surrounded the youthful sun, according to the revised Nebular Hypothesis?",
     "options": [
       "Iron and Nickel",
       "Hydrogen and Helium",
@@ -9,17 +20,6 @@
     ],
     "answer": "Hydrogen and Helium",
     "explanation": "The revised <b><i>Nebular Hypothesis</i></b> considered that the early sun was surrounded by a solar nebula containing mostly <b>hydrogen</b> and <b>helium</b>, along with dust particles.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
-  },
-  {
-    "text": "The 'binary theories' of the Earth's origin, which were supported by Sir James Jeans and Sir Harold Jeffrey, fundamentally differed from the Nebular Hypothesis by proposing what?",
-    "options": [
-      "The planets formed from a cloud of gas and dust.",
-      "A companion star coexisted with the sun.",
-      "The sun was initially a rapidly rotating star.",
-      "The universe began with a singular explosion."
-    ],
-    "answer": "A companion star coexisted with the sun.",
-    "explanation": "The binary theories considered a companion star to have been coexisting with the sun. This is distinct from the initial Nebular Hypothesis, which involved a solitary, youthful sun.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
     "text": "What is the most widely accepted modern theory for the origin of the universe, also known as the 'expanding universe hypothesis'?",
@@ -33,7 +33,7 @@
     "explanation": "The most popular modern argument for the origin of the universe is the <b><i>Big Bang Theory</i></b>. It is also called the <i>expanding universe hypothesis</i>.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "What crucial evidence did Edwin Hubble provide in 1920 regarding the state of the universe?",
+    "text": "What crucial evidence did Edwin Hubble provide in 1920 that serves as a cornerstone for the Big Bang Theory?",
     "options": [
       "The universe is static and unchanging.",
       "The universe is shrinking.",
@@ -44,7 +44,7 @@
     "explanation": "In 1920, <b><i>Edwin Hubble</i></b> provided evidence that the universe is <b>expanding</b>, noting that as time passes, galaxies move further and further apart.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "Consider the following stages in the development of the universe according to the Big Bang Theory. Arrange them in the correct chronological order:\n1. The universe becomes transparent.\n2. A violent explosion of a 'tiny ball' (singularity).\n3. The first atom begins to form.\n4. All matter existed in a single point of infinite density.",
+    "text": "Arrange the following stages in the development of the universe according to the Big Bang Theory in the correct chronological order:<br>1. The universe becomes transparent.<br>2. A violent explosion of a 'tiny ball' (singularity).<br>3. The first atom begins to form.<br>4. All matter existed in a single point of infinite density.",
     "options": [
       "4-2-3-1",
       "2-4-1-3",
@@ -52,7 +52,7 @@
       "2-1-3-4"
     ],
     "answer": "4-2-3-1",
-    "explanation": "The correct sequence is: (4) all matter existed in a <i>singularity</i>, (2) the singularity exploded (the <i>Big Bang</i>), (3) within the first three minutes, the first atom formed, and (1) within 300,000 years, the universe became transparent.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "explanation": "The correct sequence is: (4) all matter existed in a <i>singularity</i>, (2) the singularity exploded (the <i>Big Bang</i>), (3) within the first three minutes, the first atom formed, and (1) around 300,000 years later, the universe became transparent.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
     "text": "Approximately how long ago is the Big Bang event believed to have occurred?",
@@ -77,7 +77,7 @@
     "explanation": "Initial density differences in the early universe led to variations in gravitational forces. This caused matter to be drawn together, which formed the basis for the development of galaxies.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "According to the text, what is a nebula?",
+    "text": "What is a nebula in the context of star formation?",
     "options": [
       "A fully formed star",
       "A large cloud of hydrogen gas that is the starting point for star formation",
@@ -99,7 +99,7 @@
     "explanation": "The final stage of planet formation involves a large number of smaller bodies called <i>planetesimals</i> sticking together and growing into planets through a process known as <b>accretion</b>.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "Based on the provided text, approximately how old are the planets in our solar system?",
+    "text": "Based on scientific consensus, approximately how old are the planets in our solar system?",
     "options": [
       "13.7 billion years",
       "5-5.6 billion years",
@@ -132,18 +132,18 @@
     "explanation": "Jovian planets are much larger than terrestrial planets and possess thick atmospheres composed mainly of <b>helium and hydrogen</b>.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "Which of the following is NOT a reason cited in the text for the difference between terrestrial and Jovian planets?",
+    "text": "Consider the following reasons cited for the differences between terrestrial and Jovian planets:<br><ol><li>The terrestrial planets formed where it was too warm for gases to condense into solid particles.</li><li>The solar wind was more intense near the sun, stripping gases from the terrestrial planets.</li><li>The terrestrial planets are smaller and their lower gravity could not hold the escaping gases.</li></ol>Which of the above reasons are correct?",
     "options": [
-      "The terrestrial planets formed in the close vicinity of the parent star where it was too warm for gases to condense.",
-      "The solar wind was more intense nearer the sun, blowing off gas and dust from the terrestrial planets.",
-      "The terrestrial planets are smaller and their lower gravity could not hold the escaping gases.",
-      "The Jovian planets were formed much later than the terrestrial planets."
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
     ],
-    "answer": "The Jovian planets were formed much later than the terrestrial planets.",
-    "explanation": "All planets, both terrestrial and Jovian, were formed in the same period about 4.6 billion years ago. The other three options are the correct reasons provided for their differences.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "answer": "1, 2 and 3",
+    "explanation": "All three statements provide valid reasons for the fundamental differences between terrestrial and Jovian planets. All planets formed at the same time, but their location and size determined their final composition.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "What is the currently accepted scientific theory for the formation of the Moon?",
+    "text": "What is the currently accepted scientific theory for the formation of the Moon, often called 'the big splat'?",
     "options": [
       "The Moon was a separate body captured by Earth's gravity.",
       "The Earth and Moon formed together as a single rapidly rotating body that broke apart.",
@@ -154,7 +154,7 @@
     "explanation": "The formation of the Moon is now generally believed to be the outcome of a '<b>giant impact</b>' or '<b>the big splat</b>', where a body one to three times the size of Mars collided with Earth.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "The process by which the Earth's materials separated into different layers based on density is known as:",
+    "text": "The process by which the Earth's materials separated into different layers (crust, mantle, core) based on their density is known as:",
     "options": [
       "Accretion",
       "Degassing",
@@ -162,18 +162,18 @@
       "Photosynthesis"
     ],
     "answer": "Differentiation",
-    "explanation": "Through the process of <b><i>differentiation</i></b>, Earth-forming material separated into different layers, with heavier materials sinking to the center and lighter materials moving to the surface.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "explanation": "Through the process of <b><i>differentiation</i></b>, Earth-forming material separated into different layers, with heavier materials (like iron) sinking to the center and lighter materials moving to the surface.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "What was the primary composition of Earth's initial, primordial atmosphere?",
+    "text": "Consider the following statements regarding the evolution of Earth's atmosphere:<br><ol><li>The primordial atmosphere, composed of hydrogen and helium, was lost due to solar winds.</li><li>The second atmosphere was formed through degassing and was rich in free oxygen.</li><li>The third and present atmosphere was modified by photosynthesis.</li></ol>Which of the statements given above is/are correct?",
     "options": [
-      "Nitrogen and Oxygen",
-      "Water vapour, Carbon dioxide, and Methane",
-      "Hydrogen and Helium",
-      "Ozone and Argon"
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
     ],
-    "answer": "Hydrogen and Helium",
-    "explanation": "Earth's first atmosphere, the primordial atmosphere, was composed of <b>hydrogen and helium</b> and was subsequently stripped off as a result of solar winds.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "answer": "1 and 3 only",
+    "explanation": "<ul><li><b>Statement 1 is correct:</b> The first atmosphere of hydrogen/helium was stripped off by solar winds.</li><li><b>Statement 2 is incorrect:</b> The second atmosphere from degassing was rich in water vapour, carbon dioxide, and nitrogen, but had very little free oxygen.</li><li><b>Statement 3 is correct:</b> Photosynthesis by early life was the process that added significant free oxygen to the atmosphere.</li></ul><br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
     "text": "The process through which gases were outpoured from the Earth's interior to form its second atmosphere is called:",
@@ -250,7 +250,7 @@
       "Origin of life"
     ],
     "answer": "Oceans and Continents form, atmosphere is rich in Carbon dioxide",
-    "explanation": "During the <b>Hadean Eon</b> (3,800 - 4,800 million years ago), the oceans and continents formed, and the atmosphere was rich in Carbon dioxide.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "explanation": "During the <b>Hadean Eon</b> (from ~4.6 to 4.0 billion years ago), the Earth was still accreting and differentiating. During this time, the oceans and continents began to form, and the atmosphere was rich in Carbon dioxide from degassing.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
     "text": "The 'Age of Mammals' corresponds to which Era?",
@@ -275,26 +275,26 @@
     "explanation": "A light-year is a unit of <b>distance</b>, not time. It represents the distance that light travels in one year.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "Consider the following statements regarding the early theories of Earth's origin:\n1. Immanuel Kant, a philosopher, proposed a hypothesis that was later revised by mathematician Laplace.\n2. The theory proposed by Kant and Laplace is known as the Nebular Hypothesis.\n3. This hypothesis suggested planets were formed from material separated from a wandering star.",
+    "text": "Consider the following two statements:<br><p><b>Assertion (A):</b> Immanuel Kant's theory of Earth's origin is known as the Nebular Hypothesis.</p><p><b>Reason (R):</b> The hypothesis considered that planets formed from a cloud of material associated with the sun.</p>In the context of the two statements, which one of the following is correct?",
     "options": [
-      "1 and 2 only",
-      "2 and 3 only",
-      "1 and 3 only",
-      "1, 2 and 3"
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
     ],
-    "answer": "1 and 2 only",
-    "explanation": "Statements 1 and 2 are correct as <i>Immanuel Kant's</i> argument was revised by <i>Laplace</i> and is known as the <i>Nebular Hypothesis</i>. Statement 3 is incorrect; it describes the theory by <b>Chamberlain and Moulton</b>.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The German philosopher Immanuel Kant's argument, later revised by mathematician Laplace, is known as the Nebular Hypothesis. This hypothesis correctly states that planets formed from a slowly rotating cloud of gas and dust (a nebula) associated with the young sun. Therefore, both statements are true and R is the correct explanation of A.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "What is the primary reason why inner planets are rocky while outer planets are mostly gaseous?",
+    "text": "Consider the following two statements:<br><p><b>Assertion (A):</b> Inner planets are rocky while outer planets are mostly gaseous.</p><p><b>Reason (R):</b> The inner planets formed in a region too warm for gases like hydrogen and helium to condense.</p>In the context of the two statements, which one of the following is correct?",
     "options": [
-      "The outer planets captured more asteroids.",
-      "The inner planets formed in a region too warm for gases like hydrogen and helium to condense.",
-      "Volcanic activity was only present on inner planets.",
-      "The outer planets have stronger magnetic fields."
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is NOT the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
     ],
-    "answer": "The inner planets formed in a region too warm for gases like hydrogen and helium to condense.",
-    "explanation": "The terrestrial planets formed near the parent star in a region that was <b>too warm for gases to condense</b> into solid particles, while the Jovian planets formed in a much colder, distant location.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Both statements are correct. The high temperatures near the parent star prevented volatile gases from condensing, leaving behind rock and metal for the inner planets. In the colder outer regions, gases could condense, allowing the Jovian planets to grow massive. Thus, R is the primary explanation for A.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
     "text": "The initial atmosphere of Earth, composed of hydrogen and helium, was stripped away primarily by what mechanism?",
@@ -319,7 +319,7 @@
     "explanation": "The process of <b><i>differentiation</i></b> led heavier materials (like iron) to sink towards the center and lighter ones to move to the surface, creating the Earth's layered structure.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "According to the text, the mean distance of Earth from the Sun is 149,598,000 km. How is this distance expressed in terms of light travel time?",
+    "text": "The mean distance of Earth from the Sun is 149,598,000 km. How is this distance expressed in terms of light travel time?",
     "options": [
       "8.311 seconds",
       "8.311 minutes",
@@ -338,7 +338,7 @@
       "Permian"
     ],
     "answer": "Silurian",
-    "explanation": "The Geological Time Scale indicates that the 'First trace of life on land' appeared during the <b>Silurian Period</b> (408 - 438 Million years ago).<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "explanation": "The Geological Time Scale indicates that the 'First trace of life on land' (plants) appeared during the <b>Silurian Period</b> (438 - 408 Million years ago).<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
     "text": "The theory which considered the universe to be 'roughly the same at any point of time' was Hoyle's concept of:",
@@ -352,7 +352,7 @@
     "explanation": "As an alternative to the expanding universe, <b>Hoyle's concept of a <i>Steady State</i></b> considered the universe to be roughly the same at any point in time.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "Planetesimals are described in the text as:",
+    "text": "What are planetesimals?",
     "options": [
       "The core of a gas cloud",
       "Large bodies like Jupiter and Saturn",
@@ -363,7 +363,7 @@
     "explanation": "<b><i>Planetesimals</i></b> are a large number of smaller, rounded objects formed by the process of cohesion, which then accrete to form planets.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "What event is described as 'the big splat' in the text?",
+    "text": "The phrase 'the big splat' is a colloquial term for what event?",
     "options": [
       "The Big Bang",
       "The formation of the first star",
@@ -382,18 +382,18 @@
       "During the formation of the Moon"
     ],
     "answer": "Second Stage - Contribution from the hot interior (degassing)",
-    "explanation": "During the second stage, <b>degassing</b> from volcanic eruptions released water vapour. As the Earth cooled, this water vapour condensed and fell as rain, collecting in depressions to form the oceans.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "explanation": "During the second stage, <b>degassing</b> from volcanic eruptions released water vapour. As the Earth cooled, this water vapour condensed and fell as rain over a very long period, collecting in depressions to form the oceans.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "According to the table, which planet has the highest density?",
+    "text": "Based on the data below, which planet has the highest density?<br><style>table, th, td {border: 1px solid black; border-collapse: collapse; padding: 5px;}</style><table><tr><th>Planet</th><th>Density (gm/cm³)</th></tr><tr><td>Mercury</td><td>5.427</td></tr><tr><td>Venus</td><td>5.243</td></tr><tr><td>Earth</td><td>5.517</td></tr><tr><td>Mars</td><td>3.933</td></tr><tr><td>Jupiter</td><td>1.326</td></tr></table>",
     "options": [
       "Mercury",
       "Earth",
       "Jupiter",
-      "Saturn"
+      "Venus"
     ],
     "answer": "Earth",
-    "explanation": "The 'Solar System' data table shows that <b>Earth</b> has a density of <b>5.517 gm/cm³</b>, which is the highest value among all listed planets.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "explanation": "The data table shows that <b>Earth</b> has a density of <b>5.517 gm/cm³</b>, which is the highest value among the listed planets.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
     "text": "The emergence of modern man, Homo Sapiens, occurred in which Epoch?",
@@ -404,26 +404,26 @@
       "Holocene"
     ],
     "answer": "Pleistocene",
-    "explanation": "The Geological Time Scale indicates the emergence of <i>Homo Sapiens</i> during the <b>Pleistocene Epoch</b>. <i>Modern Man</i> is associated with the subsequent Holocene Epoch.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "explanation": "The Geological Time Scale indicates the emergence of <i>Homo Sapiens</i> during the <b>Pleistocene Epoch</b>. The term <i>Modern Man</i> is associated with the subsequent Holocene Epoch.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "The formation of stars is believed to have taken place approximately how many years ago?",
+    "text": "The formation of stars is believed to have taken place approximately how many years after the Big Bang?",
     "options": [
-      "13.7 billion years ago",
-      "5-6 billion years ago",
-      "4.6 billion years ago",
-      "3.8 billion years ago"
+      "1 billion years",
+      "5-6 billion years",
+      "100 million years",
+      "10 billion years"
     ],
-    "answer": "5-6 billion years ago",
-    "explanation": "The formation of stars is believed to have occurred around <b>5 to 6 billion years ago</b>.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "answer": "5-6 billion years",
+    "explanation": "The formation of stars is believed to have occurred around <b>5 to 6 billion years after</b> the Big Bang event.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "Which two elements were the primary constituents of Earth's atmosphere during the Hadean and Archean eons, before photosynthesis became widespread?",
+    "text": "Which two gases were the primary constituents of Earth's atmosphere during the second stage of its evolution (after degassing)?",
     "options": [
       "Oxygen and Nitrogen",
       "Hydrogen and Helium",
       "Carbon dioxide and Nitrogen",
-      "Water Vapour and Methane"
+      "Water Vapour and Oxygen"
     ],
     "answer": "Carbon dioxide and Nitrogen",
     "explanation": "The second atmosphere, formed from degassing, largely contained water vapour, <b>nitrogen</b>, <b>carbon dioxide</b>, methane, and ammonia, with very little free oxygen.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
@@ -484,15 +484,15 @@
     "explanation": "After the 'giant impact' event, the blasted material continued to orbit the Earth and eventually formed into the present moon about <b>4.44 billion years ago</b>.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "The Paleozoic Era is characterized by the emergence of which major life forms according to the Geological Time Scale?",
+    "text": "Match List I (Geological Era/Period) with List II (Key Biological Event).<br><style>table, th, td {border: 1px solid #ccc; border-collapse: collapse; padding: 8px; text-align: left;}</style><table><tr><th>List I</th><th>List II</th></tr><tr><td>(a) Carboniferous Period</td><td>1. First Fish</td></tr><tr><td>(b) Cenozoic Era</td><td>2. First Reptiles</td></tr><tr><td>(c) Devonian Period</td><td>3. Age of Mammals</td></tr><tr><td>(d) Ordovician Period</td><td>4. Amphibians</td></tr></table>",
     "options": [
-      "Dinosaurs and Frogs",
-      "First Fish, Amphibians, and Reptiles",
-      "Small Mammals and Rabbits",
-      "Flowering Plants and Anthropoid Apes"
+      "a-2, b-3, c-4, d-1",
+      "a-1, b-2, c-3, d-4",
+      "a-2, b-4, c-1, d-3",
+      "a-4, b-3, c-1, d-2"
     ],
-    "answer": "First Fish, Amphibians, and Reptiles",
-    "explanation": "The <b>Paleozoic Era</b> saw the emergence of the <i>First Fish</i> (Ordovician), <i>Amphibians</i> (Devonian), and the <i>First Reptiles</i> (Carboniferous).<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "answer": "a-2, b-3, c-4, d-1",
+    "explanation": "The correct matches from the Paleozoic and Cenozoic Eras are:<ul><li>(a) <b>Carboniferous Period:</b> Emergence of the First Reptiles.</li><li>(b) <b>Cenozoic Era:</b> Known as the Age of Mammals.</li><li>(c) <b>Devonian Period:</b> First Amphibians appeared.</li><li>(d) <b>Ordovician Period:</b> First Fish appeared.</li></ul><br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
     "text": "What was the condition of Earth during its primordial stage?",
@@ -506,7 +506,7 @@
     "explanation": "Initially, the planet Earth was a <b>barren, rocky, and hot object</b> with a thin atmosphere composed of <b>hydrogen and helium</b>.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "The outer core of the Earth is one of the layers formed through differentiation. What are the other layers mentioned, starting from the surface?",
+    "text": "The outer core of the Earth is one of the layers formed through differentiation. What are the other principal layers mentioned, starting from the surface?",
     "options": [
       "Crust, Mantle, Inner Core",
       "Lithosphere, Asthenosphere, Mesosphere",
@@ -514,39 +514,39 @@
       "Crust, Outer Mantle, Inner Mantle, Core"
     ],
     "answer": "Crust, Mantle, Inner Core",
-    "explanation": "The layers of the Earth formed through differentiation, starting from the surface, are the <b>crust, mantle, outer core, and inner core</b>.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "explanation": "The layers of the Earth formed through differentiation, starting from the surface, are the <b>crust, mantle, outer core, and inner core</b>. The question asks for the other layers besides the outer core.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "According to the provided data, which planet has a radius closest to that of Earth?",
+    "text": "Based on the data provided below, which planet has a radius closest to that of Earth?<br><style>table, th, td {border: 1px solid black; border-collapse: collapse; padding: 5px;}</style><table><tr><th>Planet</th><th>Radius (Earth = 1)</th></tr><tr><td>Mercury</td><td>0.383</td></tr><tr><td>Venus</td><td>0.949</td></tr><tr><td>Earth</td><td>1.000</td></tr><tr><td>Mars</td><td>0.532</td></tr></table>",
     "options": [
       "Mars",
       "Venus",
       "Mercury",
-      "Pluto"
+      "None of the above"
     ],
     "answer": "Venus",
-    "explanation": "The 'Solar System' data table lists Earth's relative radius as 1.000. <b>Venus</b> has a radius of <b>0.949</b>, which is the closest value to Earth's among the options.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "explanation": "The data table lists Earth's relative radius as 1.000. <b>Venus</b> has a radius of <b>0.949</b>, which is the closest value to Earth's among the options.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
     "text": "The 'Origin of the sun' is placed at what point in time on the Geological Time Scale?",
     "options": [
-      "13,700 Million years ago",
-      "5,000 Million years ago",
-      "4,800 Million years ago",
-      "12,000 Million years ago"
+      "13.7 billion years ago",
+      "5.0 billion years ago",
+      "4.6 billion years ago",
+      "12.0 billion years ago"
     ],
-    "answer": "5,000 Million years ago",
-    "explanation": "The Geological Time Scale table places the 'Origin of the sun' at <b>5,000 million years</b> before the present.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "answer": "5.0 billion years ago",
+    "explanation": "The Geological Time Scale table places the 'Origin of the sun' at <b>5,000 million years</b> before the present, which is equivalent to 5.0 billion years ago.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   },
   {
-    "text": "Which of the following statements about the expansion of the universe is supported by the text?",
+    "text": "Which of the following statements about the expansion of the universe is correct?",
     "options": [
       "The galaxies themselves are expanding in size.",
       "The space between the galaxies is increasing.",
-      "The expansion of the universe has been constant since the Big Bang.",
+      "The expansion of the universe has stopped.",
       "The balloon analogy is a perfect representation of the expanding universe."
     ],
     "answer": "The space between the galaxies is increasing.",
-    "explanation": "Scientific observations indicate that the <b>space between galaxies is increasing</b>, but do not support the idea that the galaxies themselves are expanding. For this reason, the balloon analogy is only partially correct.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
+    "explanation": "Scientific observations indicate that the <b>space between galaxies is increasing</b>, but do not support the idea that the galaxies themselves are expanding. The balloon analogy is only partially correct because the galaxies (marks on the balloon) also expand as the balloon is inflated, which is not what happens in reality.<br><i>Source: Fundamentals of Physical Geography, NCERT, 2007</i>"
   }
 ]
