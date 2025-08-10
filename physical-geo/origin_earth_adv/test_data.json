@@ -1,0 +1,486 @@
+[
+  {
+    "text": "Which of the following concepts is used to explain the greenhouse effect on Earth, where the planet absorbs solar energy at any wavelength but emits it in a narrow band of radiation?",
+    "options": [
+      "Earth as a Blackbody Radiator",
+      "The Perihelion Effect",
+      "Differential Rotation",
+      "The Law of Angular Momentum"
+    ],
+    "answer": "Earth as a Blackbody Radiator",
+    "explanation": "Earth's closeness to being a <b>black body radiator</b> is responsible for the greenhouse effect. This property allows it to absorb incoming solar energy and then emit it in a specific narrow band, which traps heat in the atmosphere."
+  },
+  {
+    "text": "Consider the following statements about the Earth's motion:<ol><li>Rotation is the movement of the Earth around the Sun, which defines a year.</li><li>Revolution is the spinning of the Earth on its own axis, which causes day and night.</li><li>The common direction of Earth's rotation and revolution is anti-clockwise when viewed from above the North Pole.</li></ol>Which of the statements given above is/are correct?",
+    "options": [
+      "3 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "None"
+    ],
+    "answer": "3 only",
+    "explanation": "<ul><li><b>Statement 1 is incorrect:</b> The movement around the Sun is revolution.</li><li><b>Statement 2 is incorrect:</b> The spinning on its axis is rotation.</li><li><b>Statement 3 is correct:</b> Both the Earth's rotation and its revolution around the Sun are in an anti-clockwise (prograde) direction.</li></ul>"
+  },
+  {
+    "text": "What is the primary reason for the change of seasons on Earth?",
+    "options": [
+      "The Earth's orbit being an ellipse, causing distance from the Sun to vary.",
+      "The slowing of Earth's rotation over time due to tidal effects.",
+      "The tilt of the Earth's axis relative to the plane of its orbit.",
+      "The varying amount of heat emitted by the Sun throughout the year."
+    ],
+    "answer": "The tilt of the Earth's axis relative to the plane of its orbit.",
+    "explanation": "The change in seasons is caused by the <b>tilt of the Earth’s axis</b> (66.5° to its orbital plane). This tilt determines which hemisphere receives the most direct sunlight at different points in the planet's orbit."
+  },
+  {
+    "text": "According to the common classification of galaxies, which type is characterized by a central bulge, a flattened disk with spiral arms containing young blue stars, and significant amounts of gas and dust?",
+    "options": [
+      "Elliptical Galaxies",
+      "Irregular Galaxies",
+      "Spiral Galaxies",
+      "Dwarf Galaxies"
+    ],
+    "answer": "Spiral Galaxies",
+    "explanation": "<b>Spiral Galaxies</b> are described as having a central bulge and a flattened disk with spiral arms. These arms are noted to contain 'numerous young blue stars and lots of gas and dust'."
+  },
+  {
+    "text": "Consider the following celestial bodies:<ol><li>Dwarf planets like Pluto</li><li>Comets</li><li>The Asteroid Belt</li><li>The Kuiper Belt</li></ol>How many of the above are considered components of the Solar System in addition to the Sun and the major planets?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "All the four",
+    "explanation": "The Solar System consists of the Sun, planets, and numerous other objects, including dwarf planets, comets, and regions populated by smaller objects like the Asteroid Belt and the Kuiper Belt."
+  },
+  {
+    "text": "Which of the following statements correctly distinguishes between inner and outer planets in our Solar System?<ol><li>Inner planets are larger in size and have a thick atmosphere of helium and hydrogen.</li><li>Outer planets are called 'terrestrial' as they are made up of rocks and metals.</li><li>Inner planets are located between the Sun and the belt of asteroids.</li></ol>Select the correct answer using the code given below.",
+    "options": [
+      "3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "3 only",
+    "explanation": "<ul><li><b>Statement 1 is incorrect:</b> This describes outer planets.</li><li><b>Statement 2 is incorrect:</b> Inner planets are called terrestrial.</li><li><b>Statement 3 is correct:</b> The inner planets are defined as those that lie between the Sun and the asteroid belt.</li></ul>"
+  },
+  {
+    "text": "With reference to the distribution of mass and angular momentum in the Solar System, consider the following:<br><p><b>Assertion (A):</b> Any valid hypothesis on the origin of the Solar System must account for the fact that the planets possess most of the angular momentum.</p><p><b>Reason (R):</b> The Sun contains about 99.9% of the total mass of the Solar System, but only a very small fraction of its total angular momentum.</p>Which one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "<b>Reason (R)</b> correctly states the mass/angular momentum paradox: the Sun has almost all the mass, while the planets have almost all the angular momentum (98.3%). This specific, odd distribution is a fundamental problem that any origin theory must solve, making <b>Assertion (A)</b> a valid requirement. Thus, R provides the direct physical reason for A."
+  },
+  {
+    "text": "An early 'monistic' (one-star) hypothesis for the origin of the Solar System proposed that a vast cloud of cold, motionless particles began to collide due to gravity, which generated heat and rotation, eventually forming a nebula. How many of the following are valid scientific criticisms of this specific hypothesis?<ol type='I'><li>The collision of particles as described would not generate the necessary net rotatory motion.</li><li>The hypothesis fails to explain the original source of the primordial matter.</li><li>It wrongly assumes the speed of rotation would increase as the nebula expanded.</li><li>It fails to explain the source of the initial energy that made the motionless particles active.</li></ol>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "Only three",
+    "explanation": "Valid criticisms of this hypothesis include:<ul><li><b>(I)</b> Random collisions would not create the net rotation of the nebula, violating conservation of angular momentum.</li><li><b>(II)</b> The origin of the primordial matter is not explained.</li><li><b>(III)</b> The statement is flawed; the hypothesis actually assumed rotation speed would increase with size, which is also against the laws of motion. So this specific criticism isn't valid as phrased.</li><li><b>(IV)</b> It is unexplained how initially 'cold and motionless' particles suddenly became active.</li></ul>Therefore, three of the criticisms are considered valid."
+  },
+  {
+    "text": "The Nebular Hypothesis proposed that a hot, rotating nebula cooled and contracted, increasing its rotational speed and shedding successive rings of material that formed planets. Which of the following are considered major flaws in this hypothesis?<ol><li>It does not explain the origin of the hot nebula itself.</li><li>If the Sun is the remaining part of the nebula, it should be rotating much faster than it is.</li><li>All satellites should revolve in the same direction as their parent planet, but exceptions exist.</li></ol>Select the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2, 3"
+    ],
+    "answer": "1, 2, 3",
+    "explanation": "All three points are significant criticisms of the Nebular Hypothesis. It failed to explain the nebula's origin, the Sun's unexpectedly slow rotation, and the retrograde motion of some satellites, which contradicts the model."
+  },
+  {
+    "text": "The 'dualistic' or 'binary' hypotheses for the origin of the Solar System fundamentally differ from 'monistic' hypotheses by proposing what?",
+    "options": [
+      "The planets formed from cold matter instead of hot matter.",
+      "The involvement of at least one other star in addition to the Sun.",
+      "The planets were formed from a single filament of gas.",
+      "The process was driven by nuclear fusion."
+    ],
+    "answer": "The involvement of at least one other star in addition to the Sun.",
+    "explanation": "The core distinction is the number of initial bodies. 'Monistic' concepts involve a single star or nebula, while 'Dualistic' or 'Binary' concepts involve the interaction of two or more stars."
+  },
+  {
+    "text": "How many of the following characteristics are associated with the Outer (Jovian) Planets?<ol type='I'><li>Bigger in size</li><li>Less dense</li><li>Thick atmosphere of helium and hydrogen</li><li>Higher speed of rotation</li></ol>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "All the four",
+    "explanation": "The outer planets are known to be bigger, less dense, have thick atmospheres of hydrogen and helium, and have a higher speed of rotation compared to the inner planets. All four characteristics are correct."
+  },
+  {
+    "text": "Consider the following statements regarding different origin theories:<ol><li>The Planetesimal Hypothesis suggests planets formed from cold, solid particles detached from the Sun.</li><li>The Tidal Hypothesis suggests planets formed from a hot, gaseous filament ejected from the Sun.</li><li>The Super Nova Hypothesis suggests planets formed from heavy elements created in a stellar explosion.</li></ol>Which of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "1, 2 and 3",
+    "explanation": "All three statements accurately summarize the core ideas of their respective hypotheses:<ul><li>The Planetesimal hypothesis involved cold, solid particles.</li><li>The Tidal hypothesis involved a hot filament of gas.</li><li>The Super Nova hypothesis is based on the formation of heavy elements, the primary constituents of planets.</li></ul>"
+  },
+  {
+    "text": "A key piece of evidence cited in support of the Tidal Hypothesis is the 'cigar-shaped' arrangement of the planets. This refers to the observation that:",
+    "options": [
+      "the orbits of the planets are elliptical, not circular.",
+      "the biggest planets lie in the center of the Solar System and smaller ones at the ends.",
+      "the Solar System is flat, like a disk.",
+      "the planets all revolve in the same direction."
+    ],
+    "answer": "the biggest planets lie in the center of the Solar System and smaller ones at the ends.",
+    "explanation": "The 'cigar-shaped' filament ejected from the Sun was thought to be thickest in its center and thinner at its ends. This would lead to the formation of larger planets (like Jupiter) in the middle and smaller planets (like Mercury) at the ends, which roughly matches the Solar System's layout."
+  },
+  {
+    "text": "Consider the following statement:<br><p><b>Assertion (A):</b> Modern origin hypotheses, based on nuclear physics, argue that planets could not have formed solely from material from a star like our Sun.</p><p><b>Reason (R):</b> An ordinary star like the Sun primarily fuses hydrogen into helium and cannot produce the vast quantities of heavy elements that constitute the planets.</p>Which one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "<b>Reason (R)</b> correctly states a key concept from nuclear physics: our Sun produces light elements. <b>Assertion (A)</b> states that planets, being made of heavy elements, must have had an external source. R provides the direct physical explanation for A, as the inability of the Sun to create heavy elements necessitates another origin, such as a supernova."
+  },
+  {
+    "text": "How many of the following theories propose that the material for planets was forcefully ejected or detached from the Sun due to the gravitational influence of another star?<ol type='I'><li>Nebular Hypothesis</li><li>Planetesimal Hypothesis</li><li>Tidal Hypothesis</li></ol>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "Only two",
+    "explanation": "<ul><li><b>Nebular Hypothesis:</b> This monistic theory proposes that rings separated from a single rotating nebula due to centrifugal force, not the influence of another star.</li><li><b>Planetesimal Hypothesis:</b> This dualistic theory proposes that a companion star's gravity detached particles from the Sun.</li><li><b>Tidal Hypothesis:</b> This dualistic theory proposes that an intruding star's gravity ejected a filament of matter from the Sun.</li></ul>Therefore, two of the listed theories involve the gravitational influence of another star."
+  },
+  {
+    "text": "With reference to the characteristics of the Solar System that any origin theory must explain, consider the following:<ol><li>All planets revolve in a counter-clockwise direction (prograde).</li><li>All planets have orbits that lie in nearly the same plane (the ecliptic).</li><li>All planets have nearly circular orbits (low eccentricity).</li><li>All planets, including Venus and Uranus, have prograde rotation.</li></ol>Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "1, 2 and 3 only",
+    "explanation": "<ul><li><b>Statements 1, 2, and 3 are correct:</b> Prograde revolution, low orbital inclination, and low eccentricity are key facts to be explained by any model.</li><li><b>Statement 4 is incorrect:</b> A crucial exception that theories must also account for is that Venus and Uranus do not have prograde rotation.</li></ul>"
+  },
+  {
+    "text": "Which of the following is described as a region between Mars and Jupiter containing millions of objects thought to be remnants of planetesimals?",
+    "options": [
+      "The Oort Cloud",
+      "The Kuiper Belt",
+      "The Asteroid Belt",
+      "The Heliosphere"
+    ],
+    "answer": "The Asteroid Belt",
+    "explanation": "The <b>Asteroid belt</b> is the region that lies between Mars and Jupiter. It contains millions of asteroids, many of which are thought to be the shattered remnants of planetesimal bodies."
+  },
+  {
+    "text": "Consider the following statement:<br><p><b>Assertion (A):</b> The Northern Hemisphere winters tend to be milder than Southern Hemisphere winters.</p><p><b>Reason (R):</b> The Earth reaches Perihelion, its closest point to the Sun, in early January.</p>Which one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "<b>Reason (R)</b> is a fact: Earth is closest to the Sun around January 3rd. <b>Assertion (A)</b> is a known consequence. Because the Northern Hemisphere's winter coincides with the Earth being closest to the Sun, it receives slightly more solar energy, making its winters milder compared to the Southern Hemisphere's winter, which occurs when the Earth is farthest from the Sun (Aphelion)."
+  },
+  {
+    "text": "The concept of 'differential rotation' in Jovian planets means that:",
+    "options": [
+      "they rotate at different speeds than terrestrial planets.",
+      "their speed of rotation is gradually slowing down over time.",
+      "their moons revolve at different speeds depending on their distance.",
+      "their equators rotate faster than their pole regions because the planets are not solid."
+    ],
+    "answer": "their equators rotate faster than their pole regions because the planets are not solid.",
+    "explanation": "Differential rotation is a phenomenon where different parts of a rotating object move with different angular velocities. For Jovian planets, it means their equators rotate faster than their pole regions, which is proof that the planet is not a solid body."
+  },
+  {
+    "text": "How many of the following are listed as methods to obtain information about planets?<ol type='I'><li>Photometry (for temperature and albedo)</li><li>Spectroscopy (for chemical composition)</li><li>Radar mapping (for surface topology)</li><li>Space probes (for direct analysis and survey)</li></ol>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "All the four",
+    "explanation": "All four methods are valid and established ways of gathering scientific information about planets: photometry, spectroscopy, radar mapping, and direct analysis by space probes."
+  },
+  {
+    "text": "Consider the following statements regarding theories of the Solar System's origin:<ol><li>The term 'planetesimals' was used in a dualistic hypothesis to describe particles detached from the Sun.</li><li>The term 'nebula' was used in a monistic hypothesis to describe a large, rotating cloud of gas and dust.</li><li>The term 'filament' was used in a dualistic hypothesis to describe a cigar-shaped stream of ejected matter.</li></ol>Which of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "1, 2 and 3",
+    "explanation": "All three statements correctly associate the term with its corresponding hypothesis type:<ul><li>'Planetesimals' are central to the dualistic theory of Chamberlin & Moulton.</li><li>'Nebula' is the key component of the monistic theory of Kant/Laplace.</li><li>'Filament' is the term used for the ejected matter in the dualistic theory of James Jeans.</li></ul>"
+  },
+  {
+    "text": "In the context of galaxy classification, Barred Spiral Galaxies are a specific type of spiral galaxy distinguished by what feature?",
+    "options": [
+      "They lack a central bulge.",
+      "They contain only old, red stars.",
+      "They have a bar-shaped collection of stars running across the center.",
+      "They do not rotate like a whirlpool."
+    ],
+    "answer": "They have a bar-shaped collection of stars running across the center.",
+    "explanation": "The defining feature of <b>Barred Spiral Galaxies</b> that distinguishes them from other spiral galaxies is the presence of a 'bar-shaped collection of stars running across the center of the galaxy'."
+  },
+  {
+    "text": "How many of the following planets are classified as 'Inner or terrestrial planets'?<ol type='I'><li>Mercury</li><li>Venus</li><li>Mars</li><li>Jupiter</li></ol>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "Only three",
+    "explanation": "The four inner, terrestrial planets are Mercury, Venus, Earth, and Mars. From the list provided, Mercury, Venus, and Mars fit this classification. Jupiter is an outer, Jovian planet."
+  },
+  {
+    "text": "Which of the following concepts is defined as a bubble in the interstellar medium created by the flow of plasma from the Sun?",
+    "options": [
+      "The Ecliptic Plane",
+      "The Heliosphere",
+      "The Oort Cloud",
+      "The Milky Way"
+    ],
+    "answer": "The Heliosphere",
+    "explanation": "The <b>heliosphere</b> is defined as 'a bubble in the interstellar medium' which is created by the 'solar wind,' a continuous flow of plasma from the Sun."
+  },
+  {
+    "text": "With reference to early origin hypotheses, consider the following:<br><p><b>Assertion (A):</b> In the Nebular Hypothesis, the central rotating mass was proposed to have shed a series of individual rings.</p><p><b>Reason (R):</b> A key criticism of this model is that the small degree of cohesion between particles would likely result in a continuous disk, not intermittent rings.</p>Which one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both A and R are true, and R is a criticism of the process described in A.",
+      "Both A and R are true, but R is not a criticism of the process described in A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": "Both A and R are true, and R is a criticism of the process described in A.",
+    "explanation": "<b>Assertion (A)</b> correctly describes the ring-shedding mechanism of the Nebular Hypothesis. <b>Reason (R)</b> accurately states a valid scientific criticism of that mechanism: the physics of particle cohesion suggests a continuous disk would form, not separate, intermittent rings. Therefore, R is a direct criticism of A."
+  },
+  {
+    "text": "Consider the following statements regarding the planet Pluto:<ol><li>It is classified as one of the four outer 'gas giant' planets.</li><li>It was re-classified as a dwarf planet in 2006.</li><li>Its orbit is noted for being highly inclined and highly elliptical.</li></ol>Which of the statements given above is/are correct?",
+    "options": [
+      "2 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "2 and 3 only",
+    "explanation": "<ul><li><b>Statement 1 is incorrect:</b> Jupiter, Saturn, Uranus, and Neptune are the gas/ice giants. Pluto is a dwarf planet.</li><li><b>Statement 2 is correct:</b> A new class of dwarf planets was officially recognized in 2006, with Pluto being the most famous member.</li><li><b>Statement 3 is correct:</b> Pluto's orbit is known for having a high inclination (18 degrees) and high eccentricity compared to the major planets.</li></ul>"
+  },
+  {
+    "text": "The term 'terrestrial worlds' is used to describe bodies with a compact, rocky surface. How many of the following are listed as 'terrestrial worlds' in addition to Mercury, Venus, Earth, and Mars?<ol type='I'><li>The Moon</li><li>Europa (moon of Jupiter)</li><li>Titan (moon of Saturn)</li><li>Triton (moon of Neptune)</li></ol>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "All the four",
+    "explanation": "In addition to the four inner planets, other large, rocky bodies are also considered terrestrial worlds. This includes the four Galilean moons (Io, Europa, Ganymede, Callisto), Titan, Triton, Pluto, and Earth's Moon. All four options listed are part of this group."
+  },
+  {
+    "text": "In the Tidal Hypothesis, what was the proposed reason that the smaller planets have fewer satellites than the bigger planets?",
+    "options": [
+      "The smaller planets are too close to the Sun's gravity.",
+      "The smaller planets cooled down more quickly, leaving less time to form satellites.",
+      "The bigger planets captured more asteroids to serve as moons.",
+      "The smaller planets do not have strong enough magnetic fields."
+    ],
+    "answer": "The smaller planets cooled down more quickly, leaving less time to form satellites.",
+    "explanation": "A key supporting point of the Tidal Hypothesis was that the smaller planets, having less mass, would cool down much faster. This rapid cooling would leave insufficient time for the secondary process of satellite formation to occur, whereas the larger, hotter planets had a much longer period to form moons."
+  },
+  {
+    "text": "Individual asteroids are classified into three main groups based on their characteristic spectra. What are these three groups?",
+    "options": [
+      "Carbon (C type), Stony (S type), and Metallic (M type)",
+      "Icy (I type), Rocky (R type), and Gaseous (G type)",
+      "Volatile (V type), Silicate (S type), and Heavy (H type)",
+      "Planetesimal (P type), Comet (C type), and Meteoroid (M type)"
+    ],
+    "answer": "Carbon (C type), Stony (S type), and Metallic (M type)",
+    "explanation": "The primary spectral classification for asteroids divides them into three main groups: <b>C type (carbonaceous), S type (stony/silicaceous), and M type (metallic)</b>."
+  },
+  {
+    "text": "How many of the following scientific concepts are classified as 'Monistic Concepts' for the origin of the Solar System?<ol type='I'><li>Gaseous Hypothesis</li><li>Nebular Hypothesis</li><li>Tidal Hypothesis</li><li>Binary Star Hypothesis</li></ol>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "Only two",
+    "explanation": "Monistic concepts involve a single star or nebula. The Gaseous Hypothesis and Nebular Hypothesis fall into this category. The Tidal and Binary Star hypotheses are dualistic, as they involve the interaction of two or more stars."
+  },
+  {
+    "text": "What is the Astronomical Unit (AU) defined as?",
+    "options": [
+      "The distance light travels in one year.",
+      "The diameter of the Sun.",
+      "The mean distance between the Sun and the Earth.",
+      "The distance from the Sun to the Kuiper Belt."
+    ],
+    "answer": "The mean distance between the Sun and the Earth.",
+    "explanation": "The Astronomical Unit (AU) is a standard unit of length used for measuring distances within the Solar System. It is defined as the average distance between the Earth and the Sun, approximately 149.6 million kilometers."
+  },
+  {
+    "text": "Consider the following statement:<br><p><b>Assertion (A):</b> In a dualistic hypothesis where an intruding star ejects matter from the Sun, the ejected filament could neither fall back into the Sun nor be captured by the intruding star.</p><p><b>Reason (R):</b> By the time the filament was fully ejected, the intruding star had moved far ahead on its path, while the filament's own motion kept it in orbit around the Sun due to gravitation.</p>Which one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "<b>Assertion (A)</b> states the proposed outcome for the filament. <b>Reason (R)</b> explains the mechanics behind this outcome: the intruding star was too far away to capture the filament gravitationally, and the Sun's gravity was sufficient to keep the newly formed filament in a stable orbit. This correctly explains why the outcome in A occurred."
+  },
+  {
+    "text": "Which of the following is considered a primary scientific flaw in BOTH the Gaseous Hypothesis and the Nebular Hypothesis?",
+    "options": [
+      "They wrongly assume that collisions can generate rotation.",
+      "They fail to explain why the Sun rotates so slowly.",
+      "They do not explain the original source of the primordial matter or nebula.",
+      "They incorrectly predict that planets would be in a liquid state."
+    ],
+    "answer": "They do not explain the original source of the primordial matter or nebula.",
+    "explanation": "A fundamental criticism leveled at both early monistic theories is that they begin by assuming the existence of their starting material (primordial matter for one, a hot nebula for the other) without providing a scientific explanation for its origin."
+  },
+  {
+    "text": "How many of the following are mentioned as 'terrestrial worlds' in the Solar System?<ol type='I'><li>Io</li><li>Ganymede</li><li>Callisto</li><li>Titan</li><li>Pluto</li></ol>",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All the five"
+    ],
+    "answer": "All the five",
+    "explanation": "In addition to the four inner planets, other large, solid bodies are also considered 'terrestrial worlds'. This group includes the four large Galilean moons of Jupiter (Io, Europa, Ganymede, Callisto), Saturn's largest moon Titan, Neptune's largest moon Triton, and the dwarf planet Pluto. All five options listed are members of this group."
+  },
+  {
+    "text": "Consider the following statements about different types of galaxies:<ol><li>Spiral galaxies rotate somewhat like a hurricane or whirlpool.</li><li>The stars in elliptical galaxies revolve around the center in an organized way.</li><li>Irregular galaxies tend to be smaller and contain very hot, newer stars.</li></ol>Which of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "1 and 3 only",
+    "explanation": "<ul><li><b>Statement 1 is correct:</b> The disk of a spiral galaxy exhibits organized rotation.</li><li><b>Statement 2 is incorrect:</b> The opposite is true; stars in elliptical galaxies move in random, disorganized orbits, often compared to a swarm of bees.</li><li><b>Statement 3 is correct:</b> Irregular galaxies are typically smaller and are sites of active, hot star formation.</li></ul>"
+  },
+  {
+    "text": "According to one modern hypothesis, the universe is believed to have originated from a violent explosion of dense, huge primordial matter approximately how many years ago?",
+    "options": [
+      "4.6 billion years ago",
+      "13.7 billion years ago",
+      "20 billion years ago",
+      "100,000 light years ago"
+    ],
+    "answer": "20 billion years ago",
+    "explanation": "One estimate provided for the Big Bang, citing the work of some Indian scientists, suggests the Universe originated about <b>20 billion years ago</b> from the explosion of an initial singularity."
+  },
+  {
+    "text": "The Sun, with its Solar System, is located within the Milky Way galaxy. What is its approximate distance from the center of the galaxy?",
+    "options": [
+      "100,000 light years",
+      "285 light years",
+      "30,000 light years",
+      "224 million light years"
+    ],
+    "answer": "30,000 light years",
+    "explanation": "Our Sun is located in one of the spiral arms of the Milky Way, approximately <b>30,000 light years</b> away from the galactic center."
+  },
+  {
+    "text": "Consider the following sequence of events:<br><ol><li>A large nebula of gas and dust is disturbed, possibly by a supernova.</li><li>The cloud begins to spin faster, flattens, and forms an accretion disc with a protostar at the center.</li><li>Dust grains and planetesimals collide and accrete within the disc.</li><li>Planets form from the accretion of these larger bodies.</li></ol>This sequence describes the modern version of which foundational hypothesis?",
+    "options": [
+      "The Tidal Hypothesis",
+      "The Nebular Theory",
+      "The Binary Star Hypothesis",
+      "The Planetesimal Hypothesis"
+    ],
+    "answer": "The Nebular Theory",
+    "explanation": "This step-by-step process describes the modern, widely accepted <b>Nebular Theory</b> of star and planet formation, which is a refined version of the original Nebular Hypothesis."
+  },
+  {
+    "text": "The observation that Jovian planets exhibit 'differential rotation' is direct evidence that:",
+    "options": [
+      "their day length is different from Earth's.",
+      "they are not solid bodies.",
+      "they rotate in the opposite direction to the Sun.",
+      "their rotation speed changes over time."
+    ],
+    "answer": "They are not solid bodies.",
+    "explanation": "Differential rotation, where the equator spins at a different rate than the poles, is a property of fluid or gaseous bodies. A solid body would rotate uniformly. Therefore, this observation is proof that the Jovian planets are not solid."
+  },
+  {
+    "text": "How many of the following are listed as specific criticisms of the Tidal Hypothesis?<ol type='I'><li>The distance between stars in the universe is too great for such a close encounter to be likely.</li><li>It is unlikely that a huge amount of material could be ejected from the Sun to form planets at such a great distance.</li><li>The gaseous filament would likely have disappeared due to high temperatures before it could condense.</li><li>The angular momentum imparted by the star would not be enough to match the existing angular momentum of the planets.</li></ol>",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "All the four",
+    "explanation": "All four points are significant scientific criticisms raised against the Tidal Hypothesis. They question the probability of the initial event, the mechanics of filament formation and survival, and the resulting physics of angular momentum."
+  },
+  {
+    "text": "Consider the following statement:<br><p><b>Assertion (A):</b> All planets, moons, and asteroids in the Solar System revolve around the Sun in the same counter-clockwise direction.</p><p><b>Reason (R):</b> This common direction of revolution very likely reflects the rotation of the original cloud from which all components of the Solar System were formed.</p>Which one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "<b>Assertion (A)</b> correctly states the observed fact of prograde motion in the Solar System. <b>Reason (R)</b> provides the accepted scientific explanation for this observation—that it is a relic of the initial rotation of the primordial solar nebula. Therefore, R is the correct explanation for A."
+  },
+  {
+    "text": "What is the key difference between a planet and a moon (or satellite)?",
+    "options": [
+      "Planets are always larger than moons.",
+      "A planet revolves around the Sun, while a moon revolves around a planet.",
+      "Planets have atmospheres, while moons do not.",
+      "Planets are spherical, while moons are irregular."
+    ],
+    "answer": "A planet revolves around the Sun, while a moon revolves around a planet.",
+    "explanation": "The primary definition is based on the object of orbit. A planet orbits a star (the Sun), whereas a moon or satellite orbits a planet. Size is not the defining factor, as some moons (like Ganymede and Titan) are larger than the planet Mercury."
+  },
+  {
+    "text": "Which of the following astronomical phenomena is described as a 'flow of plasma from the Sun' that creates a protective bubble known as the heliosphere around the Solar System?",
+    "options": [
+      "The Asteroid Belt",
+      "Cosmic Light",
+      "The Solar Wind",
+      "Interplanetary Dust"
+    ],
+    "answer": "The Solar Wind",
+    "explanation": "The <b>Solar Wind</b> is a stream of charged particles (a plasma) released from the Sun's upper atmosphere. This outflow creates a vast bubble, the heliosphere, that extends far beyond the planets."
+  },
+  {
+    "text": "How many of the following are considered 'cold origin' concepts, where the initial matter was cold before the process of planet formation began?<ol type='I'><li>Kant's Gaseous Hypothesis</li><li>Laplace's Nebular Hypothesis</li><li>Chamberlin's Planetesimal Hypothesis</li></ol>",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "Only two",
+    "explanation": "Theories are divided into 'hot origin' and 'cold origin'. <ul><li>Kant's hypothesis started with a 'cold and motionless cloud'.</li><li>Laplace's hypothesis started with a 'hot gaseous matter called nebula'.</li><li>Chamberlin's hypothesis involved a Sun made of 'cold and solid' particles.</li></ul>Therefore, two of the listed concepts are 'cold origin'."
+  }
+]

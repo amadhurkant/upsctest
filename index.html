@@ -4,87 +4,109 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Open Vidya</title>
-  <script src="https://cdn.tailwindcss.com"></script>
   <style>
+    /* Basic body reset and font settings to match Tailwind's defaults */
+    body {
+      margin: 0;
+      background-color: #ffffff;
+      color: #1f2937; /* text-gray-800 */
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      min-height: 100vh;
+    }
+
+    /* Custom classes from the original code */
     .saffron-link {
       color: #ff9933;
+      text-decoration: none; /* Added for consistency */
     }
+    
     .dot::before {
       content: "•";
       margin-right: 6px;
       color: #ff9933;
     }
+
+    /* Class to handle sidebar link styles and hover effect */
+    .sidebar-link {
+      color: #ff9933;          /* saffron-link color */
+      font-weight: 500;         /* font-medium */
+      text-decoration: none;    /* Default state */
+    }
+    
+    .sidebar-link:hover {
+      text-decoration: underline; /* hover:underline */
+    }
   </style>
 </head>
-<body class="bg-white text-gray-800 font-sans min-h-screen">
+<body>
 
   <!-- Header -->
-  <header class="bg-[#75ffd9] text-white font-bold px-6 py-4 flex justify-between items-center shadow-md">
-    <h1 class="text-xl">Open Vidya</h1>
-    <p class="text-sm italic">वि द्य या ऽ मृ त म श्नु ते</p>
+  <header style="background-color: #75ffd9; color: #ffffff; font-weight: 700; padding: 1rem 1.5rem; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);">
+    <h1 style="font-size: 1.25rem; line-height: 1.75rem;">Open Vidya</h1>
+    <p style="font-size: 0.875rem; line-height: 1.25rem; font-style: italic;">वि द्य या ऽ मृ त म श्नु ते</p>
   </header>
 
-  <div class="flex">
+  <div style="display: flex;">
 
     <!-- Sticky Sidebar Box -->
-    <aside class="w-64 p-4 m-6 border-2 border-[#75ffd9] rounded-2xl shadow-lg sticky top-6 h-fit self-start">
-      <ul class="space-y-3">
-        <li><a href="#" class="text-[#ff9933] font-medium hover:underline">Instructions as to tests</a></li>
-        <li><a href="#" class="text-[#ff9933] font-medium hover:underline">Contact Us</a></li>
+    <aside style="width: 16rem; padding: 1rem; margin: 1.5rem; border: 2px solid #75ffd9; border-radius: 1rem; box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1); position: sticky; top: 1.5rem; height: fit-content; align-self: flex-start;">
+      <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.75rem;">
+        <li><a href="#" class="sidebar-link">Instructions as to tests</a></li>
+        <li><a href="#" class="sidebar-link">Contact Us</a></li>
       </ul>
     </aside>
 
     <!-- Main Content -->
-    <main class="flex-grow p-6">
-      <div class="space-y-6">
+    <main style="flex-grow: 1; padding: 1.5rem;">
+      <div style="display: flex; flex-direction: column; gap: 1.5rem;">
 
         <!-- A -->
         <div>
-          <h2 class="text-lg font-semibold text-gray-700">A</h2>
-          <div class="flex flex-wrap gap-x-8 gap-y-2 mt-2">
+          <h2 style="font-size: 1.125rem; line-height: 1.75rem; font-weight: 600; color: #374151; margin:0;">A</h2>
+          <div style="display: flex; flex-wrap: wrap; column-gap: 2rem; row-gap: 0.5rem; margin-top: 0.5rem;">
             <a href="ancient-history-in" class="dot saffron-link">Ancient History of India</a>
-            <a href="art-culture" class="dot saffron-linkk">Art & Culture</a>
+            <a href="art-culture" class="dot saffron-link">Art & Culture</a>
           </div>
         </div>
 
         <!-- C -->
         <div>
-          <h2 class="text-lg font-semibold text-gray-700">C</h2>
-          <div class="flex flex-wrap gap-x-8 gap-y-2 mt-2">
-            <a href="critical" class="dot saffron-linkk">Critical Thinking</a>
+          <h2 style="font-size: 1.125rem; line-height: 1.75rem; font-weight: 600; color: #374151; margin:0;">C</h2>
+          <div style="display: flex; flex-wrap: wrap; column-gap: 2rem; row-gap: 0.5rem; margin-top: 0.5rem;">
+            <a href="critical" class="dot saffron-link">Critical Thinking</a>
           </div>
         </div>
 
         <!-- E -->
         <div>
-          <h2 class="text-lg font-semibold text-gray-700">E</h2>
-          <div class="flex flex-wrap gap-x-8 gap-y-2 mt-2">
-            <a href="ind_economy" class="dot saffron-linkk">Economy of India</a>
+          <h2 style="font-size: 1.125rem; line-height: 1.75rem; font-weight: 600; color: #374151; margin:0;">E</h2>
+          <div style="display: flex; flex-wrap: wrap; column-gap: 2rem; row-gap: 0.5rem; margin-top: 0.5rem;">
+            <a href="ind_economy" class="dot saffron-link">Economy of India</a>
           </div>
         </div>
 
         <!-- H -->
         <div>
-          <h2 class="text-lg font-semibold text-gray-700">H</h2>
-          <div class="flex flex-wrap gap-x-8 gap-y-2 mt-2">
-            <a href="human-geo" class="dot saffron-linkk">Human Geography</a>
-            <a href="hitory-world" class="dot saffron-linkk">History of World</a>
+          <h2 style="font-size: 1.125rem; line-height: 1.75rem; font-weight: 600; color: #374151; margin:0;">H</h2>
+          <div style="display: flex; flex-wrap: wrap; column-gap: 2rem; row-gap: 0.5rem; margin-top: 0.5rem;">
+            <a href="human-geo" class="dot saffron-link">Human Geography</a>
+            <a href="hitory-world" class="dot saffron-link">History of World</a>
           </div>
         </div>
 
         <!-- M -->
         <div>
-          <h2 class="text-lg font-semibold text-gray-700">M</h2>
-          <div class="flex flex-wrap gap-x-8 gap-y-2 mt-2">
-            <a href="medieval-history-in" class="dot saffron-linkk">Medieval History of India</a>
-            <a href="modern-history-in" class="dot saffron-linkk">Modern History of India</a>
+          <h2 style="font-size: 1.125rem; line-height: 1.75rem; font-weight: 600; color: #374151; margin:0;">M</h2>
+          <div style="display: flex; flex-wrap: wrap; column-gap: 2rem; row-gap: 0.5rem; margin-top: 0.5rem;">
+            <a href="medieval-history-in" class="dot saffron-link">Medieval History of India</a>
+            <a href="modern-history-in" class="dot saffron-link">Modern History of India</a>
           </div>
         </div>
 
         <!-- P -->
         <div>
-          <h2 class="text-lg font-semibold text-gray-700">P</h2>
-          <div class="flex flex-wrap gap-x-8 gap-y-2 mt-2">
+          <h2 style="font-size: 1.125rem; line-height: 1.75rem; font-weight: 600; color: #374151; margin:0;">P</h2>
+          <div style="display: flex; flex-wrap: wrap; column-gap: 2rem; row-gap: 0.5rem; margin-top: 0.5rem;">
             <a href="physical-geo" class="dot saffron-link">Physical Geography</a>
           </div>
         </div>
@@ -95,4 +117,3 @@
 
 </body>
 </html>
-

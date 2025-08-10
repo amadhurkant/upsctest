@@ -1,62 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Self Test Module</title>
-  <link rel="stylesheet" href="test_styling.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Open Vidya</title>
+  <style>
+    /* Basic body reset and font settings to match Tailwind's defaults */
+    body {
+      margin: 0;
+      background-color: #ffffff;
+      color: #1f2937; /* text-gray-800 */
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      min-height: 100vh;
+    }
+
+    /* Custom classes from the original code */
+    .saffron-link {
+      color: #ff9933;
+      text-decoration: none; /* Added for consistency */
+    }
+    
+    .dot::before {
+      content: "•";
+      margin-right: 6px;
+      color: #ff9933;
+    }
+
+    /* Class to handle sidebar link styles and hover effect */
+    .sidebar-link {
+      color: #ff9933;          /* saffron-link color */
+      font-weight: 500;         /* font-medium */
+      text-decoration: none;    /* Default state */
+    }
+    
+    .sidebar-link:hover {
+      text-decoration: underline; /* hover:underline */
+    }
+  </style>
 </head>
 <body>
-  <!-- Mobile Nav Toggle (hidden on desktop) -->
-  <button class="toggle-nav" id="toggle-nav">☰ Questions</button>
 
   <!-- Header -->
-  <header class="header">
-    <h1 id="subject-name">Self Test Module – Test sub</h1>
-    <b><p class="subtitle">Designed for <a href="#" style="color: black;">Open Vidya</a></p></b>
+  <header style="background-color: #75ffd9; color: #ffffff; font-weight: 700; padding: 1rem 1.5rem; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);">
+    <h1 style="font-size: 1.25rem; line-height: 1.75rem;">Open Vidya</h1>
+    <p style="font-size: 0.875rem; line-height: 1.25rem; font-style: italic;">वि द्य या ऽ मृ त म श्नु ते</p>
   </header>
 
-  <!-- Instructions & Navigation Container -->
-  <section class="instructions-container">
-    <div class="instructions-box">
-      <h2>Instructions</h2>
-      <ul>
-        <li>Once a question is attempted; it cannot be reversed</li>
-        <li>For each <strong>correct</strong> answer you will get 2 marks</li>
-        <li>For each <strong>incorrect</strong> answer you will lose 2/3 marks</li>
-        <li>For each <strong>unattempted</strong> answer you will get 0 marks</li>
+  <div style="display: flex;">
+
+    <!-- Sticky Sidebar Box -->
+    <aside style="width: 16rem; padding: 1rem; margin: 1.5rem; border: 2px solid #75ffd9; border-radius: 1rem; box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1); position: sticky; top: 1.5rem; height: fit-content; align-self: flex-start;">
+      <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.75rem;">
+        <li><a href="#" class="sidebar-link">Instructions as to tests</a></li>
+        <li><a href="#" class="sidebar-link">Contact Us</a></li>
       </ul>
-      <a href="#" id="start-test" class="start-link">Start Test</a>
-    </div>
-    <aside class="nav-box">
-      <p>Please check attempted questions here</p>
-      <div id="nav-items"></div>
     </aside>
-  </section>
 
-  <!-- Topic Heading inserted by JS -->
-  <div id="topic-container"></div>
+    <!-- Main Content -->
+    <main style="flex-grow: 1; padding: 1.5rem;">
+      <div style="display: flex; flex-direction: column; gap: 1.5rem;">
 
-  <!-- Quiz container -->
-  <form id="quiz-container"></form>
+        <!-- A -->
+        <div>
+          <div style="display: flex; flex-wrap: wrap; column-gap: 2rem; row-gap: 0.5rem; margin-top: 0.5rem;">
+            <a href="origin_earth_ NCERT" class="dot saffron-link">Origin of Earth - NCERT</a>
+            <a href="origin_earth_adv" class="dot saffron-link">Orgin of Earth - Advanced</a>
+          </div>
+        </div>
 
-  <!-- Submit button -->
-  <div class="controls">
-    <button id="submit" disabled>Submit Test</button>
+      </div>
+    </main>
   </div>
 
-  <!-- Mobile bottom bar (hidden on desktop) -->
-  <div class="mobile-bar" id="mobile-bar">
-    <button id="prev-q">←</button>
-    <button id="next-q">→</button>
-  </div>
-
-  <!-- Footer -->
-  <footer class="footer">
-    <p>Created with <span class="heart">❤️</span> by Litech, 2024</p>
-  </footer>
-
-  <script src="test_set.js"></script>
-  <script src="evaluate_test.js"></script>
 </body>
 </html>

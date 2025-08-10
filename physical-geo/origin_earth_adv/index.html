@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Self Test Module</title>
+  <link rel="stylesheet" href="test_styling.css">
+</head>
+<body>
+  <!-- Mobile Nav Toggle (hidden on desktop) -->
+  <button class="toggle-nav" id="toggle-nav">☰ Questions</button>
+
+  <!-- Header -->
+  <header class="header">
+    <h1 id="subject-name">Self Test Module – Test sub</h1>
+    <b><p class="subtitle">Designed for <a href="#" style="color: black;">Open Vidya</a></p></b>
+  </header>
+
+  <!-- Instructions & Navigation Container -->
+  <section class="instructions-container">
+    <div class="instructions-box">
+      <h2>Instructions</h2>
+      <ul>
+        <li>Once a question is attempted; it cannot be reversed</li>
+        <li>For each <strong>correct</strong> answer you will get 2 marks</li>
+        <li>For each <strong>incorrect</strong> answer you will lose 2/3 marks</li>
+        <li>For each <strong>unattempted</strong> answer you will get 0 marks</li>
+      </ul>
+      <a href="#" id="start-test" class="start-link">Start Test</a>
+    </div>
+    <aside class="nav-box">
+      <p>Please check attempted questions here</p>
+      <div id="nav-items"></div>
+    </aside>
+  </section>
+
+  <!-- Topic Heading inserted by JS -->
+  <div id="topic-container"></div>
+
+  <!-- Quiz container -->
+  <form id="quiz-container"></form>
+
+  <!-- Submit button -->
+  <div class="controls">
+    <button id="submit" disabled>Submit Test</button>
+  </div>
+
+  <!-- Mobile bottom bar (hidden on desktop) -->
+  <div class="mobile-bar" id="mobile-bar">
+    <button id="prev-q">←</button>
+    <button id="next-q">→</button>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>Created with <span class="heart">❤️</span> by Litech, 2024</p>
+  </footer>
+
+  <script src="test_set.js"></script>
+  <script src="evaluate_test.js"></script>
+</body>
+</html>
